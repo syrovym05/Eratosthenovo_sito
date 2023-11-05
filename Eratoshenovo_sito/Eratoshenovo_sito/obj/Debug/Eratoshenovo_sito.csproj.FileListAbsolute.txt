@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\bin\Debug\Eratoshenovo_sito.exe.config
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\bin\Debug\Eratoshenovo_sito.exe
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\bin\Debug\Eratoshenovo_sito.pdb
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.Form1.resources
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.exe
+C:\Users\marsy\Source\Repos\Eratoshenovo_sito\Eratoshenovo_sito\obj\Debug\Eratoshenovo_sito.pdb
